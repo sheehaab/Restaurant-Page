@@ -23,27 +23,19 @@
 }
 
 #content #nav #ul li{
-	width: 150px;
+	width: 140px;
 	height: 50%;
 	list-style: none;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	border-right: 1px solid #FFF;
-
-}
-
-#content #nav #ul li a{
-	text-decoration: none;
 	color: #FFF;
-	width: 97%;
-	height: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	font-size: 1.2em;
 	font-weight: bolder;
 	text-transform: uppercase;
+	cursor: pointer;
+	margin: 0 10px;
 }
 
 /* end nav style */
