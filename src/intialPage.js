@@ -27,7 +27,7 @@ let page = () =>{
 	const liThree = document.getElementById('3');
 	
 	//put text to every li
-	liOne.textContent = 'start';
+	liOne.textContent = 'home';
 	liTwo.textContent = 'menu';
 	liThree.textContent = 'about';
 
