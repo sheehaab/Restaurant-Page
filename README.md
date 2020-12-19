@@ -1,7 +1,7 @@
-# Resturant Page
+# Restaurant Page
 
 This a simple restaurant page only to learn how to use modules.
-Also learned about the NPM and the Webpack and how to use them in the project and how they're useful to make the project easier to make, also to improve the efficiency of the site.
+Also learned about the NPM and the Webpack and how to use them in the project and how they're useful to make the project easier to being made, also to improve the efficiency of the site. 
 
 ## Table of contents
 
@@ -25,11 +25,11 @@ Demo -> 'link here'
 
 ## Status
 
-Project is finished.
+The project is finished.
 
 ## Inspiration
 
-Project inspired by @TheOdinProject
+The project inspired by @TheOdinProject
 
 ## Contact
 
