@@ -118,6 +118,7 @@ body{
 	display: flex;
 	justify-content: space-between;
 	padding: 20px;
+	border-radius: 10px;
 }
 
 #content #menu .dish .img{
@@ -143,7 +144,35 @@ body{
 
 /* Start Contact */
 
+#content #about{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	background: url('../photos/contact.jpg') fixed no-repeat;
+	
+}
 
+#content #about .text{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #00000050;
+	width:65%;
+	height: 70%;
+	color: #FFFD;
+	border-radius: 10px;
+}
+
+#content #about h2{
+	font-size: 3em;
+}
+
+#content #about p{
+	width: 70%;
+}
 
 /* End Contact */
 

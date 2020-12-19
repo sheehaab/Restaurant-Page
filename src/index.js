@@ -4,4 +4,3 @@ import {page as menuPage} from './menu.js';
 import {page as aboutPage} from './about.js';
 
 aboutPage();
-menuPage();
