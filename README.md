@@ -21,7 +21,7 @@ Also learned about the NPM and the Webpack and how to use them in the project an
 
 ## Setup
 
-Demo -> 'link here'
+Demo -> https://sheehaab.github.io/Restaurant-Page/
 
 ## Status
 
